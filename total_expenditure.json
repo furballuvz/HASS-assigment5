@@ -2,144 +2,144 @@
   {
     "id": 1,
     "name": "Total",
-    "size": 94056
+    "size": 102338
   },
   {
     "id": 2,
     "name": "Social Development",
     "parent": 1,
-    "size": 46829
+    "size": 49472
   },
   {
     "id": 3,
     "name": "Education",
     "parent": 2,
-    "size": 12630
+    "size": 13620
   },
   {
     "id": 4,
     "name": "National Development",
     "parent": 2,
-    "size": 5935
+    "size": 5529
   },
   {
     "id": 5,
     "name": "Health",
     "parent": 2,
-    "size": 16652
+    "size": 18845
   },
   {
     "id": 6,
     "name": "Sustainability and the Environment",
     "parent": 2,
-    "size": 2436
+    "size": 2904
   },
   {
     "id": 7,
     "name": "Culture, Community and Youth",
     "parent": 2,
-    "size": 2200
+    "size": 2272
   },
   {
     "id": 8,
     "name": "Social and Family Development",
     "parent": 2,
-    "size": 2200
+    "size": 4113
   },
   {
     "id": 9,
     "name": "Communications and Information",
     "parent": 2,
-    "size": 647
+    "size": 629
   },
   {
     "id": 10,
     "name": "Manpower (Financial Security)",
     "parent": 2,
-    "size": 2404
+    "size": 1560
   },
   {
     "id": 11,
     "name": "Security and External Relations",
     "parent": 1,
-    "size": 20901
+    "size": 23670
   },
   {
     "id": 12,
     "name": "Defence",
     "parent": 11,
-    "size": 13631
+    "size": 15360
   },
   {
     "id": 13,
     "name": "Home Affairs",
     "parent": 11,
-    "size": 6867
+    "size": 7876
   },
   {
     "id": 14,
     "name": "Foreign Affairs",
     "parent": 2,
-    "size": 768
+    "size": 434
   },
   {
     "id": 15,
     "name": "Economic Development",
     "parent": 1,
-    "size": 23072
+    "size": 24671
   },
   {
     "id": 16,
     "name": "Transport",
     "parent": 15,
-    "size": 8029
+    "size": 11067
   },
   {
     "id": 17,
     "name": "Trade and Industry",
     "parent": 15,
-    "size": 9919
+    "size": 7176
   },
   {
     "id": 18,
     "name": "Manpower (excluding Financial Security)",
     "parent": 15,
-    "size": 4357
+    "size": 5617
   },
   {
     "id": 19,
     "name": "Info-Communications and Media Development",
     "parent": 15,
-    "size": 768
+    "size": 812
   },
   {
     "id": 20,
     "name": "Government Administration",
     "parent": 1,
-    "size": 3254
+    "size": 4525
   },
   {
     "id": 21,
     "name": "Finance",
     "parent": 20,
-    "size": 1438
+    "size": 2067
   },
   {
     "id": 22,
     "name": "Law",
     "parent": 20,
-    "size": 223
+    "size": 481
   },
   {
     "id": 23,
     "name": "Organs of State",
     "parent": 20,
-    "size": 594
+    "size": 711
   },
   {
     "id": 24,
     "name": "Prime Minister's Office",
     "parent": 20,
-    "size": 999
+    "size": 1266
   }
   ]
